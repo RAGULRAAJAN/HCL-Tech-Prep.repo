@@ -2,3 +2,6 @@
 
 ## Testcase excersice(22.09.26) 
 [Test Case Excersice](https://docs.google.com/spreadsheets/d/1EHzuW3_9YzoHXKmT6QvVLUAAO9wZpysjg6fvMTC6zSY/edit?usp=sharing) -- 
+
+## 23.09.26's Python Test:
+![Python Test File](23.09_Work.md)
