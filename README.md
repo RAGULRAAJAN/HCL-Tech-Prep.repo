@@ -11,6 +11,6 @@
 ![Python Test Answer](25.9-Python-test.md)
 -------------------------------------------------------------------------
 ## 29.09.26's Assignment:
-![File1](29.Numpy Assignment.ipynb)
+![File1](Numpy_Assignment.ipynb)
 ![File2](function-Assignment.ipynb)
 ![File3](function-args-assignment.ipynb)
