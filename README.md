@@ -10,6 +10,9 @@
 ## 25.09.26's Python Test:
 ![Python Test Answer](25.9-Python-test.md)
 -------------------------------------------------------------------------
+## 26.09.26's Metrics Analysis:
+![Link for XLsheet](https://docs.google.com/spreadsheets/d/17K54A8W3J65E3hJ5q54dAt9aPQHAWz-VWDVJylRowG0/edit?gid=746872551#gid=746872551)
+-------------------------------------------------------------------------
 ## 29.09.26's Assignment:
 ![File1](Numpy_Assignment.ipynb)
 ![File2](function-Assignment.ipynb)
